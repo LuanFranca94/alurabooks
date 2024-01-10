@@ -28,7 +28,7 @@
 
 .banner__pesquisa::placeholder {
     background: url("../img/Lupa.svg") no-repeat;
-    background-position: 2em;
+    background-position: 1em;
     color: var(--branco);
     font-family: var(--fonte-principal);
     font-size: 14px;
@@ -53,7 +53,7 @@
 
     .banner__pesquisa::placeholder {
         font-size: 16px;
-        background-position: 4em;
+        background-position: 7em;
     }
 }
 
