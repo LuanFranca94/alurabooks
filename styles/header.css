@@ -95,7 +95,7 @@
     .container__titulo {
         font-weight: 400;
         display: block;
-        padding-right: 1em;
+        
     }    
 
     .opçoes {
@@ -137,10 +137,11 @@
         display: block;
         width: auto;
         top: 75%;
+        margin-right: 17.3em;
     }
 
-    .opçoes__botao:checked ~ .menu__lista__link {
-        padding: 2em 1em;
+    .opçoes__botao:checked ~ .menu__lista__item {
+        padding: 1em;
     }
 
     .opçoes__botao {
